@@ -295,7 +295,7 @@ params:
   # projects
   projects:
     enable: true
-    # title: "Custom Name"
+    title: "Games"
     items:
       - title: Rebecca's Flight
         content: The turn-based strategy game set in a space opera universe.
@@ -312,7 +312,7 @@ params:
           - icon: fa fa-globe
             url: https://rebeccasflight.com
           - icon: fab fa-youtube
-            url: https://www.youtube.com/channel/UCuGT5ZUdhSr95Hpfqr2dfxQ
+            url: https://www.youtube.com/watch?v=Cd1DLC2Q77g&t=50s
           - icon: fab fa-twitter
             url: https://twitter.com/rebeccasflight
       
