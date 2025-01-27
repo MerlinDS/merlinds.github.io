@@ -155,9 +155,9 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      Hi there! 👋 My name is Andrew and I’m a software engineer with a huge passion for game development. I prefer to work with Unity and C#, especially with the new DOTS framework, but I'm always open to learning new technologies. I have over 14 years of experience in the game development industry, working on various projects from PC and mobile to social and browser-based games.
-      
-      Currently, I am working on a turn-based strategy called "Rebecca’s Flight" as a lead software developer at the "The End of Time Studio".
+      Hi there! 👋 My name is Andrew and I’m a software engineer with a huge passion for game development. 
+      I prefer to work with Unity and C#, especially with the new DOTS framework, but I'm always open to learning new technologies. 
+      I have over 14 years of experience in the game development industry, working on various projects from PC and mobile to social and browser-based games.
     skills:
       enable: true
       title: "Here are a few of my skills:"
