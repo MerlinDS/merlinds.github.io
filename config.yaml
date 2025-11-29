@@ -1,4 +1,4 @@
-baseURL: "http://salomaton.me/"
+baseURL: "https://salomaton.me/"
 languageCode: "en-us"
 title: "MerlinDS"
 theme: hugo-profile
